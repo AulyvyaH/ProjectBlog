@@ -1,15 +1,10 @@
-# PHP 7.4 with PDO SQLite Example
+# Projet de fin de formation - Initiation au PHP (Technofutur)
 
-## NIX Packages
+## Contenu
 
-- php7.4
-- php7.4 PDO extension
-- sqlite3
-
-## Running
-
-Each time this example is run, a sqlite3 database is created or appended to. A single message is appended and all records are retrieved and rendered on the page.
-
-## Thanks
-
-Contents of this examples were taken from [this tutorial](https://www.if-not-true-then-false.com/2012/php-pdo-sqlite3-example/).
+Affichage d'un mini blog d'entreprise
+Page publique: 
+- Page de connexion pour l'utilisateur
+Pages privées: 
+- Affichage d'une liste de topics
+- Affichage des détails (contenu) d'un topic dont l'id est passé par la page précédente 
