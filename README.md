@@ -2,7 +2,8 @@
 
 ## Contenu
 
-Affichage d'un mini blog d'entreprise
+###Affichage d'un mini blog d'entreprise
+
 Page publique: 
 - Page de connexion pour l'utilisateur
 Pages privées: 
